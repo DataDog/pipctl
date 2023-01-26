@@ -1,0 +1,4 @@
+# A listing of vulnerabilities that are acceptable in the application. OSV.dev is used as a source.
+acceptable_vulnerabilities: []
+# A path to requirements.txt file, relative to this configuration file.
+requirements_file: ./requirements.txt

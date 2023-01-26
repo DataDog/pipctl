@@ -1,0 +1,28 @@
+{
+   "title": "pipctl.yaml",
+   "description": "A schema file describing pipctl.yaml configuration file",
+   "type": "object",
+   "properties": {
+      "acceptable_vulnerabilities": {
+         "description": "Vulnerabilities to be ignored when generating constraints file.",
+         "type": "array",
+         "items": {
+           "type": "string",
+           "minLength": 1
+         }
+      },
+      "constraints_file": {
+         "description": "A path to constraints.txt file to be used.",
+         "type": "string",
+         "minLength": 1,
+         "nullable": true
+      },
+      "requirements_file": {
+         "description": "A path to requirements.txt file to be used.",
+         "type": "string",
+         "minLength": 1,
+         "nullable": true
+      }
+   },
+   "required": ["requirements_file", "acceptable_vulnerabilities"]
+}

@@ -1,0 +1,30 @@
+Component,Origin,License,Copyright
+attrs,PyPI,MIT,Hynek Schlawack
+build,PyPI,MIT,Filipe Laíns
+certifi,PyPI,MPL-2.0,Kenneth Reitz
+charset-normalizer,PyPI,MIT,Ahmed TAHRI
+click,PyPI,BSD-3-Clause,Armin Ronacher
+commonmark,PyPI,BSD-3-Clause,"Bibek Kafle, Roland Shoemaker"
+daiquiri,PyPI,Apache-2.0,Julien Danjou
+idna,PyPI,BSD,Kim Davies
+jsonschema,PyPI,MIT,Julian Berman
+micropipenv,PyPI,LGPLv3+,Fridolin Pokorny
+openapi-schema-validator,PyPI,BSD-3-Clause,Artur Maciag
+packaging,PyPI,Apache-2.0,Donald Stufft
+packaging,PyPI,BSD-3-Clause,Donald Stufft
+pip,PyPI,MIT,The pip developers
+pip-requirements-parser,PyPI,MIT,"The pip authors, nexB. Inc. and others"
+pip-tools,PyPI,BSD,Vincent Driessen
+pygments,PyPI,BSD-2-Clause,Georg Brandl
+pyparsing,PyPI,MIT,Paul McGuire
+pyproject-hooks,PyPI,MIT,Thomas Kluyver
+pyrsistent,PyPI,MIT,Tobias Gustafsson
+python-json-logger,PyPI,BSD,Zakaria Zajac
+pyyaml,PyPI,MIT,Kirill Simonov
+requests,PyPI,Apache-2.0,Kenneth Reitz
+rich,PyPI,MIT,Will McGugan
+rich-click,PyPI,MIT,Phil Ewels
+setuptools,PyPI,MIT,Python Packaging Authority
+tomli,PyPI,MIT,Taneli Hukkinen
+urllib3,PyPI,MIT,Andrey Petrov
+wheel,PyPI,MIT,Daniel Holth
